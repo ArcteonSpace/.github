@@ -2,7 +2,7 @@
 
 **Architecting Sovereign Geospatial Intelligence for the European Region.**
 
-Arcteon Space is a specialized technology lab focused on high-precision geospatial systems, data sovereignty, and the bridge between satellite science and industrial application.
+Arcteon Space is a specialized technology lab focused on high-precision geospatial systems, data sovereignty, and the bridge between satellite science and industrial aplication.
 
 ---
 
@@ -11,7 +11,6 @@ Arcteon Space is a specialized technology lab focused on high-precision geospati
 
 * **Status:** Active MVP Development
 * **Access:** Proprietary / Private Repository
-* **Public Roadmap:** [Explore Upcoming Features & Milestones →](https://github.com/ArcteonSpace/Freyr-Product-Roadmap)
 
 ---
 
